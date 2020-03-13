@@ -9,4 +9,18 @@ class Dog
     end
   end
   
+  def name
+    puts @name
+  end
+  
+  def breed
+    puts @breed
+  end
+  
 end
+
+
+fido = dog.new(fido,retriever)
+
+fido.name
+fido.breed
