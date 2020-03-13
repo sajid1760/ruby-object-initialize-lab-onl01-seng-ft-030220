@@ -20,7 +20,7 @@ class Dog
 end
 
 
-fido = Dog.new("fido",nil)
+#fido = Dog.new("fido",nil)
 
-fido.name
-fido.breed
+#fido.name
+#fido.breed
